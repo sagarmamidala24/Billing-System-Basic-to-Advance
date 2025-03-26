@@ -86,7 +86,7 @@ Stores prices in the price list.
 
 Calculates the total amount by summing up the prices.
 
-If GST is to be added:
+If GST is to be added.
 
 Calculates the GST amount by applying the GST percentage to the total amount.
 
